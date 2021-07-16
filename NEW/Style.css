@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color:#00CCCC;
+}
+h2{
+	font-size: 35px;
+	color:#666666;
+	font-family:"Courier New", Courier, monospace;
+}
+
+#input{
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 18px;
+	border-radius: 8px;
+	border-color:#9900CC;
+}
+#inputs{
+	padding: 5px;
+	margin-top: 5px;
+
+}
+#btn{
+	padding: 5px;
+	margin-top: 10px;
+	font-size: 20px;
+	border-radius: 12px;
+	background-color:#00FF99;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	border-color: red;
+	font-weight: bolder;
+}
+
